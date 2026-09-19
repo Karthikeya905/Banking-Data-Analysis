@@ -3,7 +3,7 @@
 A data analytics project focused on analyzing banking customer and transaction data to identify meaningful patterns, trends, and business insights.
 
 ##Dataset Source:
-- <a href="https://github.com/Karthikeya905/Banking-Data-Analysis/blob/main/Banking%20(2).csv">Dataset</a>
+- <a href="https://github.com/Karthikeya905/Banking-Data-Analysis/blob/main/Banking.xlsx">Dataset</a>
 
 ## Tools & Technologies
 
