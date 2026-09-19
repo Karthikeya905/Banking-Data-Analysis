@@ -31,3 +31,14 @@ A data analytics project focused on analyzing banking customer and transaction d
 * Data Visualization
 * Dashboard Development
 * Business Insights
+
+-Dashboard Interaction <a href="https://github.com/Karthikeya905/Banking-Data-Analysis/blob/main/Banking%20Dashboard%20(2025).pbix">View Dashboard</a>
+
+#### Process
+
+1. **Data Collection** – Collected banking customer data.
+2. **Data Cleaning** – Handled missing values and duplicates.
+3. **Data Analysis** – Analyzed data using Python and SQL.
+4. **Visualization** – Created charts and dashboards using Power BI.
+5. **Insights** – Identified key banking and customer trends.
+
